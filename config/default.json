@@ -1,0 +1,4 @@
+{
+  "mongoURI":"mongodb+srv://vidlyuser:12345@socialapp.bdfwx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret":"mySecretKeyforJWT"
+}
